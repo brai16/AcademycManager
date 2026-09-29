@@ -1,0 +1,20 @@
+## Visual Studio / .NET
+.vs/
+*.user
+*.suo
+bin/
+obj/
+Debug/
+Release/
+
+## IDEs
+.idea/
+.vscode/
+
+## Local SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+## Local application data
+/UserData/
